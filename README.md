@@ -65,4 +65,4 @@ BSCS 1B – College of Computer Studies
 
 This project is developed as part of the C# Console Application Final Project at Laguna State Polytechnic University (LSPU) – San Pablo City Campus, College of Computer Studies.
 
-### Console-ations: Making Every Contribution Count, One Donation at a Time. 
+### Console-ations: Making Every Contribution Count, One Donation at a Time.
